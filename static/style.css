@@ -1,0 +1,58 @@
+body {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    color: #002060; 
+    font-size: 20px;
+}
+
+.contenedor-principal {
+    margin-top: 20px;
+}
+
+.tabla-seccion {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tabla-seccion td {
+    vertical-align: middle;
+    padding: 10px;
+}
+
+.logo-unefa {
+    width: 120px;
+    height: auto;
+}
+
+.caja-calculadora {
+    border: 1px solid #002060;
+    padding: 15px;
+    background-color: #f4f8fb; 
+    display: inline-block;
+}
+
+.caja-calculadora input {
+    width: 40px;
+    text-align: center;
+}
+
+.seccion-integrantes {
+    margin-top: 30px;
+    padding-top: 10px;
+}
+
+.seccion-integrantes h3 {
+    color: #002060;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.seccion-integrantes ul {
+    margin-top: 5px;
+    padding-left: 20px;
+}
